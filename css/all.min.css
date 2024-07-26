@@ -1,0 +1,33 @@
+body{background-color:black;color:#b00417;
+background-repeat:no-repeat;
+background-image: url("../f2blood.jpg");
+background-position:50% 0;        
+}
+
+.k
+{
+    font-size:100px;
+    z-index: 1;
+    text-align:center;
+    position: relative;
+    top: 10px;
+}
+h1{font-size: 30px; 
+    color: rgb(210, 4, 25);  
+    position: relative;
+    left: -3%;
+}
+li{
+    font-size: 20px;
+}
+ul
+{
+    z-index: 1;
+    text-shadow: black;
+    box-shadow: black ;
+    color: rgb(210, 4, 25);  
+    
+    position: relative;
+    top: 70px;  
+    list-style-type: none;  
+}
